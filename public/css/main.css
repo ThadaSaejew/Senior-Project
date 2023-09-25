@@ -1,0 +1,44 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+.navbar .nav-link,
+.navbar-brand {
+   color: white !important;
+   font-weight: bolder;
+}
+
+.btn-link {
+   text-decoration: none;
+   color: white;
+   font-weight: bolder;
+}
+
+.btn {
+   font-weight: bolder;
+}
+
+.btn-login {
+   background-color: #ffc10700;
+   border: 0px;
+}
+
+.bg-dark {
+   background-color: #343a4061 !important;
+}
+
+/* ? Font */
+.font-robotomono {
+   font-family: 'Roboto Mono', monospace !important;
+   font-weight: bold;
+}
+
+.font-poppin {
+   font-family: 'Poppins', sans-serif !important;
+}
+
+.font-kanit {
+   font-family: 'Kanit', sans-serif !important;
+}
